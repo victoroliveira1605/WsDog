@@ -1,2 +1,2 @@
 # WsDog
-Projeto de aplicação web service para  aprendizado da linguagem kotlin,utilizando HSQLDB, SPRINGBOOT, JPA e GRADLE.
+Web service application project for kotlin language learning, using HSQLDB, SPRINGBOOT, JPA and GRADLE
